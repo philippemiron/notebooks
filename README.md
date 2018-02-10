@@ -24,3 +24,5 @@ along with this program.  If not, see http://www.gnu.org/licenses
 * OSCAR third degree resolution ocean surface currents (oscar.ipynb)
 * GFS model plot (weather_model_demo.ipynb)
 * Matplotlib how to change fonts (modify_font_matplotlib.ipynb)
+* YoMaHa argo floats dataset (yomaha.ipynb)
+	* Check out their work http://apdrc.soest.hawaii.edu/projects/yomaha/

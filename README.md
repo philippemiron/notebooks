@@ -26,3 +26,5 @@ along with this program.  If not, see http://www.gnu.org/licenses
 * Matplotlib how to change fonts (modify_font_matplotlib.ipynb)
 * YoMaHa argo floats dataset (yomaha.ipynb)
 	* Check out their work http://apdrc.soest.hawaii.edu/projects/yomaha/
+* Time series of the Loop Current extension (Loop-Current.ipynb)
+	* following Leben, 2005
